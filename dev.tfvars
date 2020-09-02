@@ -1,4 +1,4 @@
-s3_bucket = "jenkins-terraform-evolvecybertraining"
+s3_bucket = "terraform-state-april-class-akynbek"
 s3_folder_project = "terraform_ec2"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
@@ -6,5 +6,5 @@ s3_tfstate_file = "infrastructure.tfstate"
 
 environment = "dev"
 region      = "us-east-1"
-public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXUI8Mt0W/65CPA5rnR4auE8qVb08c6qR9Ca0yQaz9xM6EuShYX8jmktYbrdCIkZTMXbRF58CkWID/NHjYX4ZWZHwLi5uf2RfQegF67+kv6yJ2cgG4AsxUmWqlznxvm9615r8tpzBkKgsya58H+4aPRKqLJmhRm3ZZCa7t2HE7S+RR7fq+WtaQ3BMaKog9AVfHSEP8Gp4Ho7WUv5YlLXu5hlYC+m2oxrSCqXRFIhDtDuyphkzS93gDy8EVBkWnJFkoXT2LbVydcJaNCpEdjB1YFEEc1kMOXCAZ0w5N8PiWgdlY0lPeRXdH1RLX+WCM5FVOT9ujrq8PTQSYIkl2pek3 ikambarov@Islams-MacBook-Pro.local"
+public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHtJP3KbflhOlU2diz1WEjkpeFaP9MKsAwJMhtSe/LqTg10wmdGys4IniKttaz5ESmvb+4Eg4BttqgbDp5/0aROC2BHm1ekLTijZpqN1LzUnSfIu4cHCza6C50ZEpO7fymFbaNSklxIg78dVwVL7xju146WJw7dyxGTQ2K+Adkgq2dggmf19V6xCfevFq1SfP/ir0O9933ueQ+0/+94sGr79yGZk2DSAOKIdILgWDeN8xVpCeToc4LnPO5pm1y2lIwfHq06GwausPo8sYTG4cS5likBJ5km5nIYPVYJ7abVvbyAIBePltLVkp0TidtfK5hZuS76beSSQ4M/4DxV23N2+i08ziKPOqWfs3DiCUGDLOvxSHZI1TS0qr+I4WEDSbJT08cwwFw+NkythlDehdjqKrwNEOwApQmmf//BiZgshiXOT+lbEF1wzuKAaknCGSvA6bEj2NhlrzAY0V17k8mA0HJCZlNEPUnyDGZqN5Wu8C8HP8e7LYlfE6bMldUai0= akyn@Akynbeks-MacBook-Air.local"
 ami_id      = "ami-02eac2c0129f6376b"
